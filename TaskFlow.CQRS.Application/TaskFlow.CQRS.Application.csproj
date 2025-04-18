@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskFlow.CQRS.Data\TaskFlow.CQRS.Data.csproj" />
+    <ProjectReference Include="..\TaskFlow.CQRS.Infra\TaskFlow.CQRS.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

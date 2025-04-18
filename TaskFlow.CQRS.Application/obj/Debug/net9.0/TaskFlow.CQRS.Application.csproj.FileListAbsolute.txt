@@ -1,0 +1,17 @@
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\obj\Debug\net9.0\TaskFlow.CQRS.Application.csproj.AssemblyReference.cache
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\obj\Debug\net9.0\TaskFlow.CQRS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\obj\Debug\net9.0\TaskFlow.CQRS.Application.AssemblyInfoInputs.cache
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\obj\Debug\net9.0\TaskFlow.CQRS.Application.AssemblyInfo.cs
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\obj\Debug\net9.0\TaskFlow.CQRS.Application.csproj.CoreCompileInputs.cache
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\bin\Debug\net9.0\TaskFlow.CQRS.Application.deps.json
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\bin\Debug\net9.0\TaskFlow.CQRS.Application.dll
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\bin\Debug\net9.0\TaskFlow.CQRS.Application.pdb
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\bin\Debug\net9.0\TaskFlow.CQRS.Data.dll
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\bin\Debug\net9.0\TaskFlow.CQRS.Infra.dll
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\bin\Debug\net9.0\TaskFlow.CQRS.Data.pdb
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\bin\Debug\net9.0\TaskFlow.CQRS.Infra.pdb
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\obj\Debug\net9.0\TaskFlow.4FA1E589.Up2Date
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\obj\Debug\net9.0\TaskFlow.CQRS.Application.dll
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\obj\Debug\net9.0\refint\TaskFlow.CQRS.Application.dll
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\obj\Debug\net9.0\TaskFlow.CQRS.Application.pdb
+C:\Projects\VagnerMello\TaskFlow.CQRS\TaskFlow.CQRS.Application\obj\Debug\net9.0\ref\TaskFlow.CQRS.Application.dll
