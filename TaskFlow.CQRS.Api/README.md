@@ -1,4 +1,5 @@
-# Task Flow CQRS Custom Mediator Without MediatR 🧠✅
+# TaskFlow 🧠
+## CQRS with Custom Mediator — No MediatR
 
 This is a simple example of the **CQRS** pattern (Command Query Responsibility Segregation), using **.NET 9**, with no external libraries like MediatR.
 
