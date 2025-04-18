@@ -9,8 +9,6 @@ We use **commands** to create tasks and **queries** to read them.
 ## ⚠️ Note: This project does **not use MediatR**.  
 MediatR will be a paid library, so we built a **simple, clean, and free** custom solution.
 
----
-
 ## ✨ Technologies
 
 - .NET 9
@@ -21,8 +19,6 @@ MediatR will be a paid library, so we built a **simple, clean, and free** custom
 - SQLite In-Memory (EF Core)
 - OpenAPI (native from .NET 9)
 
----
-
 ## 🧱 Project Structure
 
 | Project                  | Description                           |
@@ -32,8 +28,6 @@ MediatR will be a paid library, so we built a **simple, clean, and free** custom
 | `TaskFlow.CQRS.Data`     | EF Core DbContext and Entities        |
 | `TaskFlow.CQRS.Infra`    | Custom Mediator, Interfaces, Extensions |
 
----
-
 ## ⚖️ Comparison with MediatR
 
 | MediatR                     | This Project                  | Status / Suggestion            |
@@ -41,8 +35,6 @@ MediatR will be a paid library, so we built a **simple, clean, and free** custom
 | `IMediator.Send(...)`      | ✅ `IMediator.Send(...)`       | Implemented                    |
 | `IMediator.Publish(...)`   | *(not implemented)*           | Can be added in the future     |
 | `INotificationHandler<T>`  | *(not implemented)*           | Could be the next improvement  |
-
----
 
 ## 🧠 Custom Mediator
 
@@ -58,8 +50,6 @@ TaskFlow.CQRS.Infra/CQRS/Messaging/
 - `IMediator.cs`: Interface with `Send<TRequest, TResult>()`
 - `Mediator.cs`: Resolves handlers using `IServiceProvider`
 - `IHandler.cs`: Base interface for all command and query handlers
-
----
 
 ### 🔄 Handler Registration with Scrutor
 
@@ -79,8 +69,6 @@ builder.Services.AddMediator(typeof(CreateTaskCommandHandler).Assembly);
 
 This setup allows clean, simple message dispatching without external libraries.
 
-
-
 ## 🚀 How to Run
 
 Clone the project:
@@ -97,7 +85,7 @@ dotnet restore
 dotnet run --project TaskFlow.CQRS.Api
 ```
 
----
+
 
 ## 📄 API Documentation
 
@@ -116,7 +104,7 @@ or
 http://localhost:7237/openapi/v1.json
 ```
 
----
+
 
 ## 🛠️ Example Endpoints
 
@@ -133,7 +121,6 @@ http://localhost:7237/openapi/v1.json
 ### 📄 Get all tasks  
 `GET /tasks`
 
----
 
 ## 🎯 Goal
 
@@ -146,10 +133,6 @@ You can also extend it with:
 - Domain Events
 - Publish/Subscribe
 - Event Sourcing
-
----
-
----
 
 ## 📄 License
 
