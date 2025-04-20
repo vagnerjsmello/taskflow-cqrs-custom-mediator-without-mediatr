@@ -1,15 +1,15 @@
-﻿
+﻿﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.CQRS.Api", "src\TaskFlow.CQRS.Api\TaskFlow.CQRS.Api.csproj", "{F08BB2C4-5AEE-CBBB-96C1-A59D86663B4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.CQRS.Api", "TaskFlow.CQRS.Api\TaskFlow.CQRS.Api.csproj", "{F08BB2C4-5AEE-CBBB-96C1-A59D86663B4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.CQRS.Application", "src\TaskFlow.CQRS.Application\TaskFlow.CQRS.Application.csproj", "{F8227739-DE12-973C-4406-4B458798CFD3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.CQRS.Application", "TaskFlow.CQRS.Application\TaskFlow.CQRS.Application.csproj", "{F8227739-DE12-973C-4406-4B458798CFD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.CQRS.Infra", "src\TaskFlow.CQRS.Infra\TaskFlow.CQRS.Infra.csproj", "{278CF6DD-0DB9-2D40-704F-239F2333BACD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.CQRS.Infra", "TaskFlow.CQRS.Infra\TaskFlow.CQRS.Infra.csproj", "{278CF6DD-0DB9-2D40-704F-239F2333BACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.CQRS.Data", "src\TaskFlow.CQRS.Data\TaskFlow.CQRS.Data.csproj", "{4650FDC2-0A34-9001-F528-AAFA15C9EEEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlow.CQRS.Data", "TaskFlow.CQRS.Data\TaskFlow.CQRS.Data.csproj", "{4650FDC2-0A34-9001-F528-AAFA15C9EEEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
